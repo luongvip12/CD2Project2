@@ -1,0 +1,8 @@
+
+{
+  "name": "Laravel-Shop AI Integration",
+  "description": "Website bán hàng kiến trúc MVC tích hợp công cụ AI thông minh.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
